@@ -1,6 +1,6 @@
 - 👋 Hi, I’m antonio vasconcellos
 - 👀 I’m interested in Elixir & Phoenix programming
-- 🌱 I’m currently learning functional programming
+- 🌱 I’m currently working as fullstack engineer at PhishX - CyberSecurity for People
 - 💞️ I’m looking to collaborate on projects that emancipate people
 - 📫 How to reach me avsn.toni@gmail.com
 
