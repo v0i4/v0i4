@@ -1,3 +1,7 @@
+this repo was moved to [https://codeberg.org/v0i4]
+
+
+
 - 👋 Hi, I’m antonio vasconcellos
 - 👀 I’m interested in Elixir & Phoenix programming
 - 🌱 I’m currently working as Elixir/Phoenix LiveView Fullstack Engineer at PhishX - CyberSecurity for People
