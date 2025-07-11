@@ -1,10 +1,7 @@
-this repo was moved to [https://codeberg.org/v0i4]
-
-
 
 - 👋 Hi, I’m antonio vasconcellos
 - 👀 Working with functional programming, vim, emacs, xmonad, bash, lua, elisp
-- 🌱 I’m currently working as Elixir/Phoenix LiveView Fullstack Engineer at PhishX - CyberSecurity for People
+- 🌱 I’m currently working as Elixir/Phoenix Backend Engineer at FacilitaPay
 - 💞️ I’m looking to collaborate on projects that emancipate people
 - 📫 How to reach me avsn.toni@gmail.com
 
