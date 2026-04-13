@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m antonio vasconcellos
 - 👀 Working with functional programming, vim, emacs, xmonad, bash, lua, elisp
-- 🌱 I’m currently working as Elixir/Phoenix Backend Engineer at FacilitaPay
+- 🌱 I’m currently working as Elixir/Phoenix Fullstack Engineer at DevGrid / Hunit
 - 💞️ I’m looking to collaborate on projects that emancipate people
 - 📫 How to reach me avsn.toni@gmail.com
 
